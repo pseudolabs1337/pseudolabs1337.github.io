@@ -1,6 +1,6 @@
 ---
 title : "Rahul Kumar"
-image : "/assets/images/author/hello.jpg"
+image : "/assets/images/author/helloo.jpg"
 description : "Front-End Developer"
 ---
 
