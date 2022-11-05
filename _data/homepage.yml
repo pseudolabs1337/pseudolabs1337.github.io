@@ -2,8 +2,8 @@
 banner:
   enable: true
   title: "Pseudo Labs"
-  image: "/assets/images/banner/illustration.svg"
-#  bg_image: "/assets/images/banner/banner-bg.svg"
+#  image: "/assets/images/banner/illustration.svg"
+  bg_image: "/assets/images/banner/banner-bg.svg"
 
 ######################## call to action ###############################
 #call_to_action:
