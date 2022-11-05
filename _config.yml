@@ -1,4 +1,4 @@
-baseurl: "https://pseudolabs1337.github.io" # the subpath of your site, e.g. blog/
+baseurl: "/" # the subpath of your site, e.g. blog/
 url: "https://pseudolabs1337.github.io" # the base hostname & protocol for your site, e.g. http://example.com/
 
 title: Pseudo Labs | Tech Blogs
