@@ -8,6 +8,8 @@ description : "top certifications for beginners in cybersecurity 2022"
 
 Here are some of the best cybersecurity certifications that will help you get jobs in cybersecurity industry.
 
+
+
 # 1. OSCP
 
 OSCP - Offensive Security Certified Professional. This course is offered by Offensive Security, the creators of kali linux.
