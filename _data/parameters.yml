@@ -47,7 +47,7 @@ search:
 ############################## Social Site ##########################
 social:
   - name: "email"
-    icon: "ti-email # themify icon pack https://themify.me/themify-icons
+    icon: "ti-email" # themify icon pack https://themify.me/themify-icons
     link: "mailto@iamsnipe@protonmail.com"
 
   - name: "twitter"
